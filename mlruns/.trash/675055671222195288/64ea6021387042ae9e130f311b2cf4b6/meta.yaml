@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/675055671222195288/64ea6021387042ae9e130f311b2cf4b6/artifacts
+deleted_time: 1711361980884
+end_time: 1711361974194
+entry_point_name: ''
+experiment_id: '675055671222195288'
+lifecycle_stage: deleted
+run_id: 64ea6021387042ae9e130f311b2cf4b6
+run_name: indecisive-smelt-736
+run_uuid: 64ea6021387042ae9e130f311b2cf4b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711361920375
+status: 4
+tags: []
+user_id: swast

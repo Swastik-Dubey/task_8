@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/830375497645841527/2d4d467c2a6548dcaa8099a24d0adc56/artifacts
+end_time: 1711364150065
+entry_point_name: ''
+experiment_id: '830375497645841527'
+lifecycle_stage: active
+run_id: 2d4d467c2a6548dcaa8099a24d0adc56
+run_name: secretive-shoat-173
+run_uuid: 2d4d467c2a6548dcaa8099a24d0adc56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711363768648
+status: 3
+tags: []
+user_id: swast

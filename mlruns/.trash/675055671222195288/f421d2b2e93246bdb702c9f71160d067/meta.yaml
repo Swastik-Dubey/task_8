@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/675055671222195288/f421d2b2e93246bdb702c9f71160d067/artifacts
+deleted_time: 1711361902333
+end_time: 1711361820783
+entry_point_name: ''
+experiment_id: '675055671222195288'
+lifecycle_stage: deleted
+run_id: f421d2b2e93246bdb702c9f71160d067
+run_name: agreeable-midge-374
+run_uuid: f421d2b2e93246bdb702c9f71160d067
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711361509412
+status: 3
+tags: []
+user_id: swast

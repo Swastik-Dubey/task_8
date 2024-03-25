@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/830375497645841527/1a965390b04f4b238c737846332c3a2b/artifacts
+end_time: 1711364446096
+entry_point_name: ''
+experiment_id: '830375497645841527'
+lifecycle_stage: active
+run_id: 1a965390b04f4b238c737846332c3a2b
+run_name: luminous-bird-528
+run_uuid: 1a965390b04f4b238c737846332c3a2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711364183776
+status: 3
+tags: []
+user_id: swast

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/830375497645841527/a877624cca4d4f37ae2db5e856665490/artifacts
+end_time: 1711364446096
+entry_point_name: ''
+experiment_id: '830375497645841527'
+lifecycle_stage: active
+run_id: a877624cca4d4f37ae2db5e856665490
+run_name: bedecked-calf-739
+run_uuid: a877624cca4d4f37ae2db5e856665490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711364183776
+status: 3
+tags: []
+user_id: swast

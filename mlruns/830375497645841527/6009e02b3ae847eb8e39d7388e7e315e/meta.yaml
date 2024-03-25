@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/830375497645841527/6009e02b3ae847eb8e39d7388e7e315e/artifacts
+end_time: 1711364473846
+entry_point_name: ''
+experiment_id: '830375497645841527'
+lifecycle_stage: active
+run_id: 6009e02b3ae847eb8e39d7388e7e315e
+run_name: suave-colt-102
+run_uuid: 6009e02b3ae847eb8e39d7388e7e315e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711364446900
+status: 3
+tags: []
+user_id: swast

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/675055671222195288/16a56716354d4642adb56416d7776d48/artifacts
+deleted_time: 1711360770665
+end_time: 1711360767755
+entry_point_name: ''
+experiment_id: '675055671222195288'
+lifecycle_stage: deleted
+run_id: 16a56716354d4642adb56416d7776d48
+run_name: upset-turtle-719
+run_uuid: 16a56716354d4642adb56416d7776d48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711360336906
+status: 4
+tags: []
+user_id: swast

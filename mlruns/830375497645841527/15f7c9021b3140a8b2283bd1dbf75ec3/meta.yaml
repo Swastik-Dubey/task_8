@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/830375497645841527/15f7c9021b3140a8b2283bd1dbf75ec3/artifacts
+end_time: 1711364473846
+entry_point_name: ''
+experiment_id: '830375497645841527'
+lifecycle_stage: active
+run_id: 15f7c9021b3140a8b2283bd1dbf75ec3
+run_name: rumbling-moose-778
+run_uuid: 15f7c9021b3140a8b2283bd1dbf75ec3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711364446900
+status: 3
+tags: []
+user_id: swast

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/675055671222195288/7191cfa63ed34ef8b05d69cc72c50a3d/artifacts
+deleted_time: 1711361902331
+end_time: 1711361509333
+entry_point_name: ''
+experiment_id: '675055671222195288'
+lifecycle_stage: deleted
+run_id: 7191cfa63ed34ef8b05d69cc72c50a3d
+run_name: likeable-bass-805
+run_uuid: 7191cfa63ed34ef8b05d69cc72c50a3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711361479357
+status: 3
+tags: []
+user_id: swast

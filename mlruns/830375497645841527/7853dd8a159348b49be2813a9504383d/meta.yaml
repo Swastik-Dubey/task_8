@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/830375497645841527/7853dd8a159348b49be2813a9504383d/artifacts
+end_time: 1711363765703
+entry_point_name: ''
+experiment_id: '830375497645841527'
+lifecycle_stage: active
+run_id: 7853dd8a159348b49be2813a9504383d
+run_name: incongruous-ant-817
+run_uuid: 7853dd8a159348b49be2813a9504383d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711363513660
+status: 3
+tags: []
+user_id: swast

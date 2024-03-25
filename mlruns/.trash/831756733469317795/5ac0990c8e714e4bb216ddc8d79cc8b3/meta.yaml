@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/831756733469317795/5ac0990c8e714e4bb216ddc8d79cc8b3/artifacts
+deleted_time: 1711357522522
+end_time: 1711357515911
+entry_point_name: ''
+experiment_id: '831756733469317795'
+lifecycle_stage: deleted
+run_id: 5ac0990c8e714e4bb216ddc8d79cc8b3
+run_name: amusing-shrew-788
+run_uuid: 5ac0990c8e714e4bb216ddc8d79cc8b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711357449772
+status: 4
+tags: []
+user_id: swast

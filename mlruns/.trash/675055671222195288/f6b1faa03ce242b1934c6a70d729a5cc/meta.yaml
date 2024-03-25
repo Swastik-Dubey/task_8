@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/675055671222195288/f6b1faa03ce242b1934c6a70d729a5cc/artifacts
+deleted_time: 1711358793097
+end_time: 1711358783506
+entry_point_name: ''
+experiment_id: '675055671222195288'
+lifecycle_stage: deleted
+run_id: f6b1faa03ce242b1934c6a70d729a5cc
+run_name: able-wolf-153
+run_uuid: f6b1faa03ce242b1934c6a70d729a5cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711358734016
+status: 4
+tags: []
+user_id: swast

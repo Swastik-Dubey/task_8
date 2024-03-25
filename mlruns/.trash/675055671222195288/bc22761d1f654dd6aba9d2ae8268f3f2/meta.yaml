@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/675055671222195288/bc22761d1f654dd6aba9d2ae8268f3f2/artifacts
+deleted_time: 1711358793096
+end_time: 1711358718229
+entry_point_name: ''
+experiment_id: '675055671222195288'
+lifecycle_stage: deleted
+run_id: bc22761d1f654dd6aba9d2ae8268f3f2
+run_name: mysterious-hare-100
+run_uuid: bc22761d1f654dd6aba9d2ae8268f3f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711358691095
+status: 3
+tags: []
+user_id: swast

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/675055671222195288/b61e11d280cd44dc8c708bea7199bf07/artifacts
+deleted_time: 1711361902328
+end_time: 1711361032273
+entry_point_name: ''
+experiment_id: '675055671222195288'
+lifecycle_stage: deleted
+run_id: b61e11d280cd44dc8c708bea7199bf07
+run_name: blushing-goat-216
+run_uuid: b61e11d280cd44dc8c708bea7199bf07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711360789994
+status: 3
+tags: []
+user_id: swast

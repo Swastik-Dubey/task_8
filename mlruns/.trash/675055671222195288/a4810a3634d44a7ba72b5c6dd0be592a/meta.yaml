@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/675055671222195288/a4810a3634d44a7ba72b5c6dd0be592a/artifacts
+deleted_time: 1711360084630
+end_time: 1711359846170
+entry_point_name: ''
+experiment_id: '675055671222195288'
+lifecycle_stage: deleted
+run_id: a4810a3634d44a7ba72b5c6dd0be592a
+run_name: stylish-cod-310
+run_uuid: a4810a3634d44a7ba72b5c6dd0be592a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711359538958
+status: 3
+tags: []
+user_id: swast

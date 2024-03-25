@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/830375497645841527/ace401481e0840779888d2bc8e3caec9/artifacts
+end_time: 1711364446096
+entry_point_name: ''
+experiment_id: '830375497645841527'
+lifecycle_stage: active
+run_id: ace401481e0840779888d2bc8e3caec9
+run_name: stylish-ray-302
+run_uuid: ace401481e0840779888d2bc8e3caec9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711364183776
+status: 3
+tags: []
+user_id: swast

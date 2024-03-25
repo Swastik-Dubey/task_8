@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/675055671222195288/80cf137584184dae9cc0e0a448c3e50a/artifacts
+deleted_time: 1711361902335
+end_time: 1711361478555
+entry_point_name: ''
+experiment_id: '675055671222195288'
+lifecycle_stage: deleted
+run_id: 80cf137584184dae9cc0e0a448c3e50a
+run_name: melodic-hog-633
+run_uuid: 80cf137584184dae9cc0e0a448c3e50a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711361034433
+status: 3
+tags: []
+user_id: swast

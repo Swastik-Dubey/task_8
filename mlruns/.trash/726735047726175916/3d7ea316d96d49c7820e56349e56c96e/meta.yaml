@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/726735047726175916/3d7ea316d96d49c7820e56349e56c96e/artifacts
+deleted_time: 1711363468294
+end_time: 1711363464756
+entry_point_name: ''
+experiment_id: '726735047726175916'
+lifecycle_stage: deleted
+run_id: 3d7ea316d96d49c7820e56349e56c96e
+run_name: casual-swan-743
+run_uuid: 3d7ea316d96d49c7820e56349e56c96e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711363360375
+status: 3
+tags: []
+user_id: swast

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1711364751549
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1711364912281
+name: Flipkart_product_reviews_experiments
+run_id: 626b993ec1344663a2f2346bd97b8317
+run_link: ''
+source: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/830375497645841527/626b993ec1344663a2f2346bd97b8317/artifacts/best_estimator
+status: READY
+status_message: null
+storage_location: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/830375497645841527/626b993ec1344663a2f2346bd97b8317/artifacts/best_estimator
+user_id: null
+version: 4

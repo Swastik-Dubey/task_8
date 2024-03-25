@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/830375497645841527/46e074a02e584a4586c665604413e504/artifacts
+end_time: 1711363765703
+entry_point_name: ''
+experiment_id: '830375497645841527'
+lifecycle_stage: active
+run_id: 46e074a02e584a4586c665604413e504
+run_name: unique-cow-492
+run_uuid: 46e074a02e584a4586c665604413e504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711363513660
+status: 3
+tags: []
+user_id: swast

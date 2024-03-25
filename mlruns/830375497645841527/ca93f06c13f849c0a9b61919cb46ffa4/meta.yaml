@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/830375497645841527/ca93f06c13f849c0a9b61919cb46ffa4/artifacts
+end_time: 1711363765703
+entry_point_name: ''
+experiment_id: '830375497645841527'
+lifecycle_stage: active
+run_id: ca93f06c13f849c0a9b61919cb46ffa4
+run_name: angry-grouse-762
+run_uuid: ca93f06c13f849c0a9b61919cb46ffa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711363513660
+status: 3
+tags: []
+user_id: swast

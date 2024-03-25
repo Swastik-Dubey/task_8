@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/830375497645841527/4dd87b924abb4e009cf66fe9da1e3bb3/artifacts
+end_time: 1711363765703
+entry_point_name: ''
+experiment_id: '830375497645841527'
+lifecycle_stage: active
+run_id: 4dd87b924abb4e009cf66fe9da1e3bb3
+run_name: casual-smelt-238
+run_uuid: 4dd87b924abb4e009cf66fe9da1e3bb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711363513660
+status: 3
+tags: []
+user_id: swast

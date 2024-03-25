@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/675055671222195288/cb807be5c59e4ac18c32df0e882f71ef/artifacts
+deleted_time: 1711358793075
+end_time: 1711358378543
+entry_point_name: ''
+experiment_id: '675055671222195288'
+lifecycle_stage: deleted
+run_id: cb807be5c59e4ac18c32df0e882f71ef
+run_name: lr_run
+run_uuid: cb807be5c59e4ac18c32df0e882f71ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711358348847
+status: 3
+tags: []
+user_id: swast

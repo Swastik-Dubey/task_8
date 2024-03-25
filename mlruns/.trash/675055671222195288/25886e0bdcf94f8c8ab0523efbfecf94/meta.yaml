@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/675055671222195288/25886e0bdcf94f8c8ab0523efbfecf94/artifacts
+deleted_time: 1711360084619
+end_time: 1711359874825
+entry_point_name: ''
+experiment_id: '675055671222195288'
+lifecycle_stage: deleted
+run_id: 25886e0bdcf94f8c8ab0523efbfecf94
+run_name: resilient-shrew-708
+run_uuid: 25886e0bdcf94f8c8ab0523efbfecf94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711359872451
+status: 4
+tags: []
+user_id: swast

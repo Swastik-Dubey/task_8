@@ -1,0 +1,1 @@
+[{'tfidf__max_features': [1000, 5000, None], 'classifier__n_neighbors': [3, 5, 7]}]

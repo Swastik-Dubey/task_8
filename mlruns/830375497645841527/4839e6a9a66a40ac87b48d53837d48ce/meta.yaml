@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/830375497645841527/4839e6a9a66a40ac87b48d53837d48ce/artifacts
+end_time: 1711364182431
+entry_point_name: ''
+experiment_id: '830375497645841527'
+lifecycle_stage: active
+run_id: 4839e6a9a66a40ac87b48d53837d48ce
+run_name: bold-asp-649
+run_uuid: 4839e6a9a66a40ac87b48d53837d48ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711364151967
+status: 3
+tags: []
+user_id: swast

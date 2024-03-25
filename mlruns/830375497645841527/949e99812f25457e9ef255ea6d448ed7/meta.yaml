@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/830375497645841527/949e99812f25457e9ef255ea6d448ed7/artifacts
+end_time: 1711363765703
+entry_point_name: ''
+experiment_id: '830375497645841527'
+lifecycle_stage: active
+run_id: 949e99812f25457e9ef255ea6d448ed7
+run_name: trusting-snail-790
+run_uuid: 949e99812f25457e9ef255ea6d448ed7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711363513660
+status: 3
+tags: []
+user_id: swast

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/830375497645841527/0cf15eddb4f34072b552a12609b293ab/artifacts
+end_time: 1711364150065
+entry_point_name: ''
+experiment_id: '830375497645841527'
+lifecycle_stage: active
+run_id: 0cf15eddb4f34072b552a12609b293ab
+run_name: flawless-cod-845
+run_uuid: 0cf15eddb4f34072b552a12609b293ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711363768648
+status: 3
+tags: []
+user_id: swast

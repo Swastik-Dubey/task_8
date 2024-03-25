@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/831756733469317795/3492cb8f11d24542a63b99729d21d87e/artifacts
+deleted_time: 1711357522522
+end_time: 1711357379501
+entry_point_name: ''
+experiment_id: '831756733469317795'
+lifecycle_stage: deleted
+run_id: 3492cb8f11d24542a63b99729d21d87e
+run_name: omniscient-koi-220
+run_uuid: 3492cb8f11d24542a63b99729d21d87e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711357377240
+status: 4
+tags: []
+user_id: swast

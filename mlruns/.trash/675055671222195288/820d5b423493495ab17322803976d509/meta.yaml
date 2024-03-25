@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/675055671222195288/820d5b423493495ab17322803976d509/artifacts
+deleted_time: 1711360770667
+end_time: 1711360334767
+entry_point_name: ''
+experiment_id: '675055671222195288'
+lifecycle_stage: deleted
+run_id: 820d5b423493495ab17322803976d509
+run_name: shivering-flea-991
+run_uuid: 820d5b423493495ab17322803976d509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711360093633
+status: 3
+tags: []
+user_id: swast

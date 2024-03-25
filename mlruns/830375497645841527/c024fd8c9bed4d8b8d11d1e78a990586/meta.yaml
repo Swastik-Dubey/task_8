@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/swast/Documents/Innomatics_intern/task_8/mlruns/830375497645841527/c024fd8c9bed4d8b8d11d1e78a990586/artifacts
+end_time: 1711364473846
+entry_point_name: ''
+experiment_id: '830375497645841527'
+lifecycle_stage: active
+run_id: c024fd8c9bed4d8b8d11d1e78a990586
+run_name: hilarious-squid-363
+run_uuid: c024fd8c9bed4d8b8d11d1e78a990586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711364446900
+status: 3
+tags: []
+user_id: swast
